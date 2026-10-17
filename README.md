@@ -235,5 +235,5 @@ Folia 会读取音频文件元数据、同目录歌词和封面，并可通过�
 本项目接入了 [Apple Music-like Lyrics TTML 逐词歌词库](https://github.com/amll-dev/amll-ttml-db) 以提供高质量的歌词文件，感谢此歌词库的作者和贡献者们。
 
 ## 许可证
-
+    
 本项目基于 `AGPL-3.0` 许可证开源。
